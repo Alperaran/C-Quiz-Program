@@ -1,2 +1,6 @@
 # C-Quiz-Program
 Program is about 10 basic question of C Programming Language
+Quiz program is a project that enables students to answer questions effectively. And thanks to this program, the instructors do not waste time checking the paper. The primary aim of the quiz program is not only to save time but also to provide a fully automated system. students also do not need paper, pencil, eraser, etc.
+this program saves time because it permits the student to enter the test at a place and displays the results with the end of the test so there is no need to wait for the result. and the Administrator has the privilege to create, modify, and delete queries.
+this program also will help students to test and develop their skills. The disadvantages of this system, however, are preparations before the use (such as finding questions, preparing an answer key, etc.).
+Purpose of  project described in this document is an Examination System designed to reduce the intense workload of manual assessment of answers given by students.    Students answers will be checked automatically and immediately. Being an integrated Examination System will reduce paperwork. The result will be shown in the quiz result screen as soon as the quiz is finished
